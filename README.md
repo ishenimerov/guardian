@@ -104,7 +104,3 @@ This hook fetches media assets from a specific album.
 
 - **items**: An array of media assets.
 - **fetchNextPage**: Function to fetch the next page of assets.
-
-```
-
-```
